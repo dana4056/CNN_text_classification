@@ -17,7 +17,7 @@ A program that uses CNN to detect alphabet cards and recognize letters in videos
 
 
 ![슬라이드4](https://user-images.githubusercontent.com/54545026/123628379-fc2fbb00-d84d-11eb-9834-e7e5d865a036.PNG)
-![슬라이드13](https://user-images.githubusercontent.com/54545026/123628387-fe921500-d84d-11eb-8d9d-dacf048440b9.PNG)
+![슬라이드13](https://user-images.githubusercontent.com/54545026/123628572-3600c180-d84e-11eb-860d-33527edd195a.PNG)
 
 
 ### label
